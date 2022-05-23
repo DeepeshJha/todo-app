@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Laravel and Vue.js",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Go to Thailand for Holidays", 
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Learn Salsa", 
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Learn French", 
+        "completed": true
+    }
+]
